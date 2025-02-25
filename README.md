@@ -8,7 +8,7 @@
 - MCT 프로그램 최근 업데이트 - 안성진(MCT Community lead)
 - MCT alumni의 자격복원을 위한 좌충우돌 - 김명신(MCT Alumni)
 - 난 이렇게 해서 MCT가 되었다. - 전대호(새내기 MCT)
-- MCAP Tech Connect 따끈한 소식들 - 유승호(MCT Champion)
+- Tech Connect 따끈한 소식들 - 유승호(MCT Champion)
 - 도전~!  다함께 사진~! 두번째
 - 목요일 저녁… 남은 이야기 서로 나누기 - 10분
 
