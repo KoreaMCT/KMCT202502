@@ -12,6 +12,26 @@
 - 도전~!  다함께 사진~! 두번째
 - 목요일 저녁… 남은 이야기 서로 나누기 - 10분
 
+## Tech Connect Demo & Labs
+- https://github.com/Tech-Connect-RAI/LAB112
+- https://github.com/tracsman/vdcWorkshop/tree/main/ERResilience
+- https://github.com/microsoft/MCAPSTechConnect25-lab-910
+- https://github.com/microsoft/MCAPSTechConnect25-lab-214
+- https://github.com/microsoft/MCAPSTechConnect25-lab-911
+- https://github.com/microsoft/MCAPSTechConnect25-lab-910
+- https://github.com/microsoft/TechConnect2025-Lab210
+- https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot
+- https://github.com/gxjorge/AI-Agents-Lab
+- https://github.com/pablosalvador10/gbbai-agent-architecture-lab
+- Https://Aka.ms/TechConnect-LAB716
+- https://github.com/microsoft/aitour-building-copilots-with-copilot-studio/tree/main/lab
+- https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot
+- https://github.com/pablosalvador10/gbbai-agent-architecture-lab
+- https://github.com/gxjorge/AI-Agents-Lab.git
+- https://github.com/microsoft/MCAPSTechConnect2025
+- https://github.com/Azure-Samples/sql-in-fabric-ai-embeddings-workshop
+
+
 ### 참고 링크들
 - MCT CL 관련 게시물 - https://techcommunity.microsoft.com/blog/latestresources/get-support-from-your-mct-community-lead/3891316 
 - 북미 MCT Summit : https://namctsummit.com/ 
